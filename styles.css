@@ -22,8 +22,9 @@ body{
 }
 
 footer{
-    background-color: green;
-    height: 200px;
+    font-family: 'Heebo', sans-serif;
+    background-color: rgb(43, 24, 216);
+    height: 70px;
     width: 100%;
 }
 #home{
