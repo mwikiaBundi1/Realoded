@@ -1,0 +1,48 @@
+header{
+    background-color: black;
+    font-size: 40px;
+    padding: 3% 14%;
+}
+nav>ul>li{
+    display:inline-block;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+nav{
+    text-align:center;
+}
+
+body{
+    /* background-image: url(images.jpeg); */
+    height: 600px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+footer{
+    background-color: green;
+    height: 200px;
+    width: 100%;
+}
+#home{
+    height:100%;
+    width:100%;
+}
+#services{
+    font-weight: 1000;
+}
+#img{
+        float: right;
+        border-radius:50%;
+        width: 30%;
+        padding:0.5px;
+        flex-wrap: row-reverse;
+     }
+
+     
+    
+    
+
+}
