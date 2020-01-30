@@ -19,13 +19,17 @@ body{
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
+    text-align: center;
+    background-color: midnightblue;
 }
 
 footer{
-    font-family: 'Heebo', sans-serif;
-    background-color: rgb(43, 24, 216);
-    height: 70px;
-    width: 100%;
+        font-family: 'Heebo', sans-serif;
+        background-color: 
+        rgb(43, 24, 216);
+        height: 70px;
+        width: 100%;
+    }
 }
 #home{
     height:100%;
@@ -40,10 +44,15 @@ footer{
         width: 30%;
         padding:0.5px;
         flex-wrap: row-reverse;
-     }
+}
+ .prices{
+    align-content: center;
+    align-items: center;
 
-     
-    
-    
-
+} 
+#diet{
+    text-align: left;
+}
+#food{
+    text-align: center;
 }
